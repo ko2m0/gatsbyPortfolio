@@ -31,7 +31,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'cdaproject1.jpg',
     title: 'La Casa del Aguacate',
     info: 'Designed & coded',
     info2: '',
@@ -40,21 +40,21 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'karnakproject1.jpg',
     title: 'Karnak. Temple of the gods',
     info: '',
     info2: '',
-    url: '',
+    url: 'https://ko2m0.github.io/karnak-XII-grid/',
     repo: 'https://github.com/ko2m0/karnak', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'fwtbtproject1.jpg',
     title: '',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://ko2m0.github.io/fwtbt_bykarnak/',
+    repo: 'https://github.com/ko2m0/fwtbt_bykarnak', // if no repo, the button will not show up
   },
 ];
 
