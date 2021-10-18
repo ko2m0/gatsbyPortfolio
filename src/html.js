@@ -19,6 +19,13 @@ export default function HTML({
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta property="og:title" content="Welcome to my React Portfolio" />
+        <meta property="og:image" content="" />
+        <meta
+          property="og:description"
+          content="I´m developing on React, Node, Github & Netlify. Check it out!"
+        />
+        <meta property="og:url" content="https://jovial-carson-c02289.netlify.app" />
         {headComponents}
       </head>
       <body {...bodyAttributes}>
