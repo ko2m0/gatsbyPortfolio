@@ -33,7 +33,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'cdaproject1.jpg',
     title: 'La Casa del Aguacate',
-    info: 'Designed & coded',
+    info: 'The latest project created with "Karnak", my very own HTML/CSS framework. Designed in Adobe XD. Coded in Visual Studio Code & managed through Filezilla, I´m very proud of this product since I was the only designer/developer to biuld it from the ground up.',
     info2: '',
     url: 'https://casadelaguacate.com',
     repo: '', // if no repo, the button will not show up
@@ -42,16 +42,16 @@ export const projectsData = [
     id: nanoid(),
     img: 'karnakproject1.jpg',
     title: 'Karnak. Temple of the gods',
-    info: '',
-    info2: '',
+    info: 'A simple, fast & responsive CSS framework. Karnak is an easy way to create landing pages that includes a semantic, responsive and light-weight css framework. Easy to install and easy to use, Karnak is constructed with W3 compliances while the css is optimized with Less language. ',
+    info2: 'Code faster, better and cleaner using Karnak for your small web-design projects.',
     url: 'https://ko2m0.github.io/karnak-XII-grid/',
     repo: 'https://github.com/ko2m0/karnak', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'fwtbtproject1.jpg',
-    title: '',
-    info: '',
+    title: 'For Whom the Bell Tolls',
+    info: 'A Karnak framework-based landing page with some Metallica inspiration.',
     info2: '',
     url: 'https://ko2m0.github.io/fwtbt_bykarnak/',
     repo: 'https://github.com/ko2m0/fwtbt_bykarnak', // if no repo, the button will not show up
