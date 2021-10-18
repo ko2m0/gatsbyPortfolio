@@ -33,7 +33,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'cdaproject1.jpg',
     title: 'La Casa del Aguacate',
-    info: 'The latest project created with "Karnak", my very own HTML/CSS framework. Designed in Adobe XD. Coded in Visual Studio Code & managed through Filezilla, I´m very proud of this product since I was the only designer/developer to biuld it from the ground up.',
+    info: 'The latest project created with "Karnak", my very own HTML/CSS framework. Designed in Adobe XD. Coded in Visual Studio Code & managed through Filezilla, I´m very proud of this product since I was the only designer/developer to build it from the ground up.',
     info2: '',
     url: 'https://casadelaguacate.com',
     repo: '', // if no repo, the button will not show up
