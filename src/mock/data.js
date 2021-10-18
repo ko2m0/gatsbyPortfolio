@@ -4,12 +4,12 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Kozmo | Web Graphic/Designer', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Welcome to my portfolio React website', // e.g: Welcome to my website
+  description: '', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: 'Welcome to my portfolio React website',
+  title: '',
   name: 'Kozmo',
   subtitle: 'Web/graphic Designer based in Morelia, Mexico.',
   cta: 'more about me',
